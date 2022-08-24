@@ -1,4 +1,4 @@
-# color_bot
+# Easy Color Bot Project Guide
 ```
 img = Image.open(filename)
 ```
