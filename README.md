@@ -1,6 +1,13 @@
 # color_bot
-img = Image.open(filename) # this is to open the file namely the 'test.png' file
-w, h = img.size # this returns 2 values the height and width in pixels
+```
+img = Image.open(filename)
+```
+Opens the file namely the 'test.png' file
+```
+w, h = img.size
+```
+Returns 2 values the height and width in pixels
+
 img = img.convert('RGBA') # converts the image so we can read the data as rgba values a
 # is for alpha or transparency level
 data = img.getdata() # imagine the image file as a matrix of pixels in rows and columns
