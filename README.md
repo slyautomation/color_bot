@@ -13,7 +13,7 @@ img = img.convert('RGBA') #
 ```
 converts the image so we can read the data as rgba values; 'A' is for alpha or transparency level.
 
-<img src="https://user-images.githubusercontent.com/81003470/187099175-d5eda19e-a9b0-497c-bf55-0bb6835eb451.png" width="48">
+<img src="https://user-images.githubusercontent.com/81003470/187099175-d5eda19e-a9b0-497c-bf55-0bb6835eb451.png" width="55">
 
 ```
 data = img.getdata() # 
