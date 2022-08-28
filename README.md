@@ -1,4 +1,7 @@
 # Easy Color Bot Project Guide
+
+<img src="https://user-images.githubusercontent.com/81003470/187099489-426bc3af-9415-407d-8981-09fe1031a38b.png" width="120">
+
 ```
 img = Image.open(filename)
 ```
