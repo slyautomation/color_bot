@@ -22,6 +22,9 @@ converts the image so we can read the data as rgba values; 'A' is for alpha or t
 data = img.getdata() # 
 ```
 Imagine the image file as a matrix of pixels in rows and columns and each single cell has meta data that meta data is the rbg value.
+
+<img src="https://user-images.githubusercontent.com/81003470/187099353-ddbd5fe9-8eda-4500-8e23-242ff9398021.png" width="55">
+
 ```
 image = cv2.imread(filename) # 
 ```
