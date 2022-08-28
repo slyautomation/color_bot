@@ -3,6 +3,9 @@
 img = Image.open(filename)
 ```
 Opens the file namely the 'test.png' file.
+
+<img src="https://user-images.githubusercontent.com/81003470/187099244-5c4d4910-7a64-4771-8068-9f8116e0f3ba.png" width="55">
+
 ```
 w, h = img.size
 ```
