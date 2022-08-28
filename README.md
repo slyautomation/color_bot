@@ -47,6 +47,8 @@ For item in data:
 ```
 loop function and will iterate through each pixel and determine if the meta rgb value is the desired color we need. 
 
+<img src="https://user-images.githubusercontent.com/81003470/187099570-fa29070a-0b6b-4393-a03b-e4f233df68cd.png" width="55">
+
 First to visualise the data print item prints the value of each pixels color represented as a tuple value 255, 255 , 255 is a white pixel.
 
 ```
@@ -59,6 +61,9 @@ print("index:", [i])
 ```
 If it does we have found the first pixel that matches our color
 So print true and print the index so we know what the position the pixel found on.
+
+<img src="https://user-images.githubusercontent.com/81003470/187099640-7d81650b-170c-452f-8e98-ef4ae6b24fec.png" width="55"> <img src="https://user-images.githubusercontent.com/81003470/187099632-db41f5c5-bc78-4a28-a5b9-2b24da41bdc3.png" width="55">
+
 ```
 print("img height:", h, "| img width:", w)
 ```
