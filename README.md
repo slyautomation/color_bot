@@ -80,3 +80,4 @@ return False
 ```
 if no matching color pixel was found print and return false
 
+_Images provided by https://www.flaticon.com/_
