@@ -1,5 +1,7 @@
 # Easy Color Bot Project Guide
 
+For more info check out: https://www.slyautomation.com/how-to-create-an-easy-color-detection-bot-a-step-by-step-guide
+
 <img src="https://user-images.githubusercontent.com/81003470/187099489-426bc3af-9415-407d-8981-09fe1031a38b.png" width="120"> <img src="https://user-images.githubusercontent.com/81003470/187099761-76ec5f2e-5fae-4787-8d84-34ff6e5cc9f9.png" width="120">
 
 
