@@ -12,3 +12,5 @@ pytweening==1.0.4
 pywin32==304
 keyboard==0.13.5
 pypiwin32==223
+scipy==1.11.1
+pyserial==3.5
