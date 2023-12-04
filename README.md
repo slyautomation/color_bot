@@ -34,7 +34,7 @@ Imagine the image file as a matrix of pixels in rows and columns and each single
 ```
 image = cv2.imread(filename) # 
 ```
-Reads the file but using opencv for later use.
+Reads the file but using opencv for later use. read <a href=https://www.slyautomation.com/mastering-image-loading-with-opencvs-imread-function-a-comprehensive-guide/>Mastering Image Loading with Opencv imread Function: A Comprehensive Guide</a> for more infomration on how imread() works.
 
 <img src="https://user-images.githubusercontent.com/81003470/187099458-3995bc95-aec6-423b-9a17-ad3e6a133982.png" width="55">
 
