@@ -1,4 +1,4 @@
-For more info check out: [<img src="https://github.com/slyautomation/color_bot/assets/81003470/cf05874f-5b90-4617-8d09-06002c0f6d42">](https://www.slyautomation.com/how-to-create-an-easy-color-detection-bot-a-step-by-step-guide)
+For more info check out: [<img src="https://github.com/slyautomation/color_bot/assets/81003470/cf05874f-5b90-4617-8d09-06002c0f6d42">](https://www.slyautomation.com/blog/how-to-create-an-easy-color-detection-bot-a-step-by-step-guide/)
 
 # Easy Color Bot Project Guide
 
