@@ -100,7 +100,11 @@ return False
 ```
 if no matching color pixel was found print and return false
 
+
+
 <img src="https://user-images.githubusercontent.com/81003470/187099716-5e2190df-69c0-4b42-a9bd-0f49292f1f4e.png" width="55">
 
 
 _Images provided by https://www.flaticon.com/_
+
+Need help with installing python, pycharm and cloning a repo? read this article for help: https://www.slyautomation.com/blog/install-pycharm-and-python-clone-a-github-project/
